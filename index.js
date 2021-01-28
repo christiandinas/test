@@ -51,7 +51,7 @@ recipe.mixIngredients = function(texto){
     return texto
 }
 
-console.log(recipe.mixIngredients("mezclando ingredientes...."));
+console.log(recipe.mixIngredients("mezclando ingredientes...."));;
 
 
 
